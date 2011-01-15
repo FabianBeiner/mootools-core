@@ -41,7 +41,7 @@ Converts a JSON string into a JavaScript object.
 
 ### Examples:
 
-	var myObject = JSON.decode('{"apple":"red","lemon":"yellow"}'); // returns {apple: 'red', lemon: 'yellow'}.
+	var myObject = JSON.decode('{"apple":"red","lemon":"yellow"}'); // returns "{apple: 'red', lemon: 'yellow'}".
 
 ### See Also:
 
